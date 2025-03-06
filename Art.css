@@ -1,0 +1,11 @@
+.card-card h4{ 
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+    line-height: 25px;
+    position: absolute;
+    left: 10%;
+    bottom: 22%;
+    margin: 0;
+}

@@ -1,0 +1,39 @@
+
+.image-header {
+  width: 210px;
+  height: 68px;
+}
+img.App-logo {
+  width: 100%;
+  height: auto;
+}
+.App-header {
+  background-color: #ffffff;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    width: 1220px;
+    padding: 50px 100px 0;
+    margin: 50px auto;
+}
+nav {
+  display: flex;
+  height: 47px;
+  text-align: center;
+  margin-top: 17px;
+}
+li.Accueil ,li.A-Propos{
+  font-family: Montserrat;
+  font-size: 24px;
+  text-align: right;
+  line-height: 34px;
+  font-weight: 500;
+}
+ul{
+  display: flex;
+  gap:57px;
+}
+a{
+  color: black;
+  text-decoration: none;
+}

@@ -1,0 +1,26 @@
+.Footer {
+    background: rgba(0, 0, 0, 1);
+    height: auto;
+    margin-top: 50px;
+}
+.Section-image-Footer {
+    width: 122px;
+    margin: auto;
+    height: 40px;
+    padding-top: 60px;
+}
+img.ImaFoo {
+    width: 100%;
+    height: 100%;
+}
+.Footer h6{ 
+    color: white;
+    color: white;
+    font-family: Montserrat;
+    line-height: 34px;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
